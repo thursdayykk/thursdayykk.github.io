@@ -412,7 +412,7 @@ table>tbody>tr:nth-of-type(odd) {
   background-color: #f9f9f9;
 }
 table>tbody>tr:hover {
-  background-color: #f5f5f5;
+  background-color: #b7c4d0;
 }
 caption,
 th,
@@ -1132,6 +1132,7 @@ pre .javascript .function {
   font-size: 20px;
   font-weight: normal;
   font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
+  color: #8e554f;
 }
 .site-subtitle {
   margin-top: 10px;
@@ -1200,6 +1201,7 @@ pre .javascript .function {
   }
 }
 .menu .menu-item a {
+  color: #8e554f;
   display: block;
   font-size: 13px;
   line-height: inherit;
@@ -1358,7 +1360,7 @@ pre .javascript .function {
   margin-left: -2px;
   width: 4px;
   height: 100%;
-  background: #f5f5f5;
+  background: #b7c4d0;
   z-index: -1;
 }
 @media (max-width: 767px) {
@@ -1428,6 +1430,7 @@ pre .javascript .function {
   font-size: 12px;
   left: 20px;
   top: 5px;
+  color: #b7c4d0;
 }
 .posts-collapse .post-comments-count {
   display: none;
@@ -1464,6 +1467,7 @@ pre .javascript .function {
   border-bottom: none;
   line-height: 1.2;
   vertical-align: top;
+  color: #8e554f;
 }
 .posts-expand .post-title-link::before {
   content: "";
@@ -1500,6 +1504,7 @@ pre .javascript .function {
   font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
   font-size: 12px;
   text-align: center;
+  color: #b7c4d0;
 }
 .posts-expand .post-meta .post-category-list {
   display: inline-block;
@@ -1745,7 +1750,7 @@ pre .javascript .function {
 .site-author-name {
   margin: 5px 0 0;
   text-align: center;
-  color: #f5f5f5;
+  color: #b7c4d0;
   font-weight: normal;
 }
 .site-description {
@@ -1822,7 +1827,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #feffe8;
+  background: #0a2e91;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -1860,7 +1865,7 @@ pre .javascript .function {
   color: #555;
 }
 .sidebar-nav li:hover {
-  color: #f5f5f5;
+  color: #b7c4d0;
 }
 .page-post-detail .sidebar-nav-toc {
   padding: 0 5px;
@@ -2607,7 +2612,7 @@ hr {
   margin-top: 80px;
 }
 .header {
-  background: #f5f5f5;
+  background: #b7c4d0;
 }
 .header-inner {
   padding: 25px 0 20px;
@@ -2676,7 +2681,7 @@ hr {
   position: relative;
   display: block;
   height: 2px;
-  background: #222;
+  background: #8e554f;
 }
 @media (max-width: 767px) {
   .logo-line-before i,
@@ -2806,7 +2811,7 @@ hr {
 }
 .posts-expand .post-tags a {
   padding: 1px 5px;
-  background: #f5f5f5;
+  background: #b7c4d0;
   border-bottom: none;
 }
 .posts-expand .post-tags a:hover {
@@ -2891,7 +2896,7 @@ hr {
 .footer {
   margin-top: 80px;
   padding: 10px 0;
-  background: #f5f5f5;
+  background: #b7c4d0;
   color: #666;
 }
 .footer-inner {

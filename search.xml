@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>关于我</title>
+    <url>/2019/12/16/aboutme/</url>
+    <content><![CDATA[<p>毕业于2019年的复读机。</p>
+<a id="more"></a>
+<p>一个T3小前端，一年前端经验，厦门一家不愿透露姓名的公司在职。</p>
+<h2 id="技术栈"><a href="#技术栈" class="headerlink" title="技术栈"></a>技术栈</h2><ul>
+<li>懒得写，后面填</li>
+</ul>
+]]></content>
+  </entry>
+  <entry>
     <title>Vue and React</title>
     <url>/2019/12/16/vue-react/</url>
     <content><![CDATA[<p>一些废话，vue跟react。【未完】</p>
@@ -13,16 +24,5 @@
       <tags>
         <tag>Vue.js React.js</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>关于我</title>
-    <url>/2019/12/16/aboutme/</url>
-    <content><![CDATA[<p>毕业于2019年的复读机。</p>
-<a id="more"></a>
-<p>一个T3小前端，一年前端经验，厦门一家不愿透露姓名的公司在职。</p>
-<h2 id="技术栈"><a href="#技术栈" class="headerlink" title="技术栈"></a>技术栈</h2><ul>
-<li>懒得写，后面填</li>
-</ul>
-]]></content>
   </entry>
 </search>
